@@ -7,8 +7,8 @@
       content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
     />
     <title>login</title>
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/styles.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/styles-login.css" />
   </head>
   <body
     class="body-bac"
